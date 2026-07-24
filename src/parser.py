@@ -1,44 +1,48 @@
+import re
+from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
+from models import CalendarCity
 
-def find_ics_links(filename):
+
+def extract_cities(filename, year):
 
     with open(filename, encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")
 
-    print("\n===== ICS LINKS =====\n")
+    cities = []
+
+    pattern = re.compile(r"(.+?) \[(.+?)\]-a\d+-ICS")
 
     for a in soup.find_all("a", href=True):
 
-        text = a.get_text(" ", strip=True)
+        text = a.get_text(strip=True)
 
         href = a["href"]
 
-        if "ICS" in text.upper():
+        match = pattern.match(text)
 
-            print(text)
-            print(href)
-            print()
+        if not match:
+            continue
 
+        city = match.group(1)
 
+        country = match.group(2)
 
+        BASE = "https://www.vaisnavacalendar.info/"
 
+        href = urljoin(BASE, href)
 
+        cities.append(
+            CalendarCity(
+                city,
+                country,
+                year,
+                href
+            )
+        )
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    return cities
 
 
 
@@ -63,26 +67,3 @@ def find_ics_links(filename):
 
 
 
-
-# from bs4 import BeautifulSoup
-
-
-# def inspect_homepage(filename):
-
-#     with open(filename, encoding="utf-8") as f:
-#         html = f.read()
-
-#     soup = BeautifulSoup(html, "html.parser")
-
-#     print("\n====== LINKS FOUND ======\n")
-
-#     links = soup.find_all("a")
-
-#     for link in links:
-
-#         text = link.get_text(strip=True)
-
-#         href = link.get("href")
-
-#         if href:
-#             print(f"{text:40} -> {href}")
