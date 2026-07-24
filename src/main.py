@@ -6,7 +6,7 @@ from parser import extract_cities
 from ics_parser import parse_ics
 from festival_builder import build_festivals
 from exporter import export_json
-
+from export_daywise import export_daywise_json
 
 def find_city(cities, city_name):
     """Find a city by name (case-insensitive)."""
@@ -150,6 +150,21 @@ def main():
         festivals,
         json_file
     )
+
+    daywise_file = (
+        f"{config.DATA_DIR}/"
+        f"{year}/"
+        f"{selected_city.name}_daywise.json"
+    )
+
+    
+    export_daywise_json(
+        festivals,
+        daywise_file,
+        selected_city.name,
+        year
+    )
+
 
     # ---------------------------------
     # Summary
