@@ -2,34 +2,138 @@ import json
 from pathlib import Path
 from datetime import datetime
 
+from geo_lookup import get_city_info
 
-def build_manifest(year, cities, filename):
-    """
-    Create manifest.json for Flutter app.
-    """
 
-    Path(filename).parent.mkdir(parents=True, exist_ok=True)
+class ManifestBuilder:
 
-    data = {
-        "version": "1.0.0",
-        "latestYear": year,
-        "generated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        "cities": []
-    }
+    def __init__(self, output_folder):
 
-    for city in sorted(cities):
+        self.output_folder = Path(output_folder)
 
-        data["cities"].append({
-            "name": city,
-            "file": f"{year}/{city}_daywise.json"
-        })
+        self.manifest = {
+            "version": "1.0.0",
+            "generated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "latestYear": None,
 
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(
-            data,
-            f,
-            indent=2,
-            ensure_ascii=False
+            "years": [],
+
+            "aliases": {
+                "Mumbai": "Bombay",
+                "Kolkata": "Calcutta",
+                "Chennai": "Madras"
+            },
+
+            "cities": []
+        }
+
+
+    def add_year(self, year):
+
+        if year not in self.manifest["years"]:
+            self.manifest["years"].append(year)
+        self.manifest["years"].sort()
+
+        self.manifest["latestYear"] = max(self.manifest["years"])
+
+
+    # def add_city(self, city, country):
+
+    #     # Avoid duplicates
+    #     for c in self.manifest["cities"]:
+    #         if c["name"] == city and c["country"] == country:
+    #             return
+
+    #     info = get_city_info(city, country)
+
+    #     self.manifest["cities"].append({
+    #         "name": city,
+    #         "country": country,
+    #         "lat": info["lat"],
+    #         "lon": info["lon"]
+    #     })
+
+
+
+    def add_city(self, city, country):
+
+        for c in self.manifest["cities"]:
+
+            if (
+                c["name"] == city
+                and
+                c["country"] == country
+            ):
+                return
+
+        info = get_city_info(
+            city,
+            country
         )
 
-    print(f"Manifest created : {filename}")
+        self.manifest["cities"].append({
+
+            "name": city,
+
+            "country": country,
+
+            "lat": info["lat"],
+
+            "lon": info["lon"],
+
+            "timezone": info["timezone"]
+
+        })
+
+
+    def save(self):
+
+        output = self.output_folder / "manifest.json"
+
+        with open(output, "w", encoding="utf-8") as f:
+            json.dump(
+                self.manifest,
+                f,
+                indent=2,
+                ensure_ascii=False
+            )
+
+        print(f"Manifest saved : {output}")
+
+
+    def add_year(self, year):
+
+        if year not in self.manifest["years"]:
+            self.manifest["years"].append(year)
+
+        self.manifest["years"].sort()
+
+        self.manifest["latestYear"] = max(
+            self.manifest["years"]
+        )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -4,7 +4,7 @@
 
 BASE_URL = "https://www.vaisnavacalendar.info"
 
-YEAR = 2027
+YEARS = [2026, 2027]
 
 CITY = "Bombay"
 
@@ -12,7 +12,8 @@ CACHE_DIR = "../cache"
 
 ICS_CACHE_DIR = "../cache/ics"
 
-DATA_DIR = "../data"
+# DATA_DIR = "../data"
+DATA_DIR = r"C:\Calendar_Data"
 
 LOG_DIR = "../logs"
 

@@ -1,164 +1,138 @@
-import argparse
-
 import config
+
 from downloader import CalendarDownloader
 from parser import extract_cities
 from ics_parser import parse_ics
 from festival_builder import build_festivals
-from exporter import export_json
 from export_daywise import export_daywise_json
 from manifest_builder import build_manifest
 
 
 def main():
 
-    # ---------------------------------
-    # Command Line
-    # ---------------------------------
-
-    parser = argparse.ArgumentParser(
-        description="Build calendar JSON for all cities."
-    )
-
-    parser.add_argument(
-        "--year",
-        type=int,
-        default=config.YEAR,
-        help="Calendar year"
-    )
-
-    args = parser.parse_args()
-
-    year = args.year
-
-    # ---------------------------------
-    # Header
-    # ---------------------------------
-
-    print("=" * 50)
-    print(f"Building ALL Cities ({year})")
-    print("=" * 50)
-
     downloader = CalendarDownloader()
 
-    # ---------------------------------
-    # Download Year Index
-    # ---------------------------------
-
-    cache_file = (
-        f"{config.CACHE_DIR}/ics_{year}.html"
-    )
-
-    if not downloader.download_year_index(
-        year,
-        cache_file
-    ):
-        return
+    total_success = 0
+    total_failed = 0
 
     # ---------------------------------
-    # Extract Cities
+    # Build Every Year
     # ---------------------------------
 
-    cities = extract_cities(
-        cache_file,
-        year
-    )
+    for year in config.YEARS:
 
-    print(f"Cities Found : {len(cities)}")
-    print()
+        print()
+        print("=" * 50)
+        print(f"Building ALL Cities ({year})")
+        print("=" * 50)
 
-    success = 0
-    failed = 0
+        # -----------------------------
+        # Download Year Index
+        # -----------------------------
 
-    successful_cities = []
+        cache_file = (
+            f"{config.CACHE_DIR}/ics_{year}.html"
+        )
 
-    # ---------------------------------
-    # Build Every City
-    # ---------------------------------
+        if not downloader.download_year_index(
+            year,
+            cache_file
+        ):
+            continue
 
-    for city in cities:
+        # -----------------------------
+        # Extract Cities
+        # -----------------------------
 
-        print("-" * 50)
-        print(city.name)
+        cities = extract_cities(
+            cache_file,
+            year
+        )
 
-        try:
+        print(f"Cities Found : {len(cities)}")
+        print()
 
-            # -------------------------
-            # Download ICS
-            # -------------------------
+        success = 0
+        failed = 0
 
-            ics_file = (
-                f"{config.ICS_CACHE_DIR}/"
-                f"{city.name}_{year}.ics"
-            )
+        # -----------------------------
+        # Build Every City
+        # -----------------------------
 
-            downloader.download_file(
-                city.ics_url,
-                ics_file
-            )
+        for city in cities:
 
-            # -------------------------
-            # Parse ICS
-            # -------------------------
+            print("-" * 50)
+            print(city.name)
 
-            events = parse_ics(
-                ics_file
-            )
+            try:
 
-            # -------------------------
-            # Build Festivals
-            # -------------------------
+                # ---------------------
+                # Download ICS
+                # ---------------------
 
-            festivals = build_festivals(
-                events
-            )
+                ics_file = (
+                    f"{config.ICS_CACHE_DIR}/"
+                    f"{city.name}_{year}.ics"
+                )
 
-            # -------------------------
-            # Export Flat JSON
-            # -------------------------
+                downloader.download_file(
+                    city.ics_url,
+                    ics_file
+                )
 
-            json_file = (
-                f"{config.DATA_DIR}/"
-                f"{year}/"
-                f"{city.name}.json"
-            )
+                # ---------------------
+                # Parse ICS
+                # ---------------------
 
-            export_json(
-                festivals,
-                json_file
-            )
+                events = parse_ics(
+                    ics_file
+                )
 
-            # -------------------------
-            # Export Day-wise JSON
-            # -------------------------
+                # ---------------------
+                # Build Festivals
+                # ---------------------
 
-            daywise_file = (
-                f"{config.DATA_DIR}/"
-                f"{year}/"
-                f"{city.name}_daywise.json"
-            )
+                festivals = build_festivals(
+                    events
+                )
 
-            export_daywise_json(
-                festivals,
-                daywise_file,
-                city.name,
-                year
-            )
+                # ---------------------
+                # Export Daywise JSON
+                # ---------------------
 
-            successful_cities.append(
-                city.name
-            )
+                json_file = (
+                    f"{config.DATA_DIR}/"
+                    f"{year}/"
+                    f"{city.name}.json"
+                )
 
-            success += 1
 
-        except Exception as e:
 
-            failed += 1
+                export_daywise_json(
+                    festivals,
+                    json_file,
+                    city.name,
+                    year
+                )
 
-            print()
-            print(f"ERROR : {city.name}")
-            print(e)
-            print()
+                success += 1
+
+            except Exception as e:
+
+                failed += 1
+
+                print()
+                print(f"ERROR : {city.name}")
+                print(e)
+                print()
+
+        print()
+        print(f"{year} Completed")
+        print(f"Successful : {success}")
+        print(f"Failed     : {failed}")
+
+        total_success += success
+        total_failed += failed
 
     # ---------------------------------
     # Build Manifest
@@ -168,23 +142,18 @@ def main():
         f"{config.DATA_DIR}/manifest.json"
     )
 
-    build_manifest(
-        year,
-        successful_cities,
-        manifest_file
-    )
+    build_manifest(manifest_file)
 
     # ---------------------------------
-    # Summary
+    # Final Summary
     # ---------------------------------
 
     print()
     print("=" * 50)
-    print("Completed")
+    print("ALL YEARS COMPLETED")
     print("=" * 50)
-    print(f"Successful : {success}")
-    print(f"Failed     : {failed}")
-    print(f"Total      : {len(cities)}")
+    print(f"Successful : {total_success}")
+    print(f"Failed     : {total_failed}")
     print("=" * 50)
 
 
@@ -227,32 +196,7 @@ if __name__ == "__main__":
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# import requests
+# import argparse
 
 # import config
 # from downloader import CalendarDownloader
@@ -266,29 +210,57 @@ if __name__ == "__main__":
 
 # def main():
 
+#     # ---------------------------------
+#     # Command Line
+#     # ---------------------------------
+
+#     parser = argparse.ArgumentParser(
+#         description="Build calendar JSON for all cities."
+#     )
+
+#     parser.add_argument(
+#         "--year",
+#         type=int,
+#         default=config.YEAR,
+#         help="Calendar year"
+#     )
+
+#     args = parser.parse_args()
+
+#     # year = args.year
+#     years = config.YEARS
+
+#     # ---------------------------------
+#     # Header
+#     # ---------------------------------
+
 #     print("=" * 50)
-#     print(f"Building ALL Cities ({config.YEAR})")
+#     print(f"Building ALL Cities ({years})")
 #     print("=" * 50)
 
 #     downloader = CalendarDownloader()
 
 #     # ---------------------------------
-#     # Download city index page
+#     # Download Year Index
 #     # ---------------------------------
 
+#     cache_file = (
+#         f"{config.CACHE_DIR}/ics_{years}.html"
+#     )
+
 #     if not downloader.download_year_index(
-#         config.YEAR,
-#         f"{config.CACHE_DIR}/ics_{config.YEAR}.html"
+#         years,
+#         cache_file
 #     ):
 #         return
 
 #     # ---------------------------------
-#     # Extract cities
+#     # Extract Cities
 #     # ---------------------------------
 
 #     cities = extract_cities(
-#         f"{config.CACHE_DIR}/ics_{config.YEAR}.html",
-#         config.YEAR
+#         cache_file,
+#         years
 #     )
 
 #     print(f"Cities Found : {len(cities)}")
@@ -297,8 +269,10 @@ if __name__ == "__main__":
 #     success = 0
 #     failed = 0
 
+#     successful_cities = []
+
 #     # ---------------------------------
-#     # Process every city
+#     # Build Every City
 #     # ---------------------------------
 
 #     for city in cities:
@@ -308,11 +282,13 @@ if __name__ == "__main__":
 
 #         try:
 
+#             # -------------------------
 #             # Download ICS
+#             # -------------------------
 
 #             ics_file = (
 #                 f"{config.ICS_CACHE_DIR}/"
-#                 f"{city.name}_{config.YEAR}.ics"
+#                 f"{city.name}_{years}.ics"
 #             )
 
 #             downloader.download_file(
@@ -320,36 +296,45 @@ if __name__ == "__main__":
 #                 ics_file
 #             )
 
+#             # -------------------------
 #             # Parse ICS
+#             # -------------------------
 
-#             events = parse_ics(ics_file)
+#             events = parse_ics(
+#                 ics_file
+#             )
 
-#             # Build festivals
+#             # -------------------------
+#             # Build Festivals
+#             # -------------------------
 
-#             festivals = build_festivals(events)
+#             festivals = build_festivals(
+#                 events
+#             )
 
+#             # -------------------------
 #             # Export JSON
+#             # -------------------------
+
+            
+#             # Export only Day-wise JSON
 
 #             json_file = (
 #                 f"{config.DATA_DIR}/"
-#                 f"{config.YEAR}/"
+#                 f"{years}/"
 #                 f"{city.name}.json"
-#             )
-
-#             export_json(
-#                 festivals,
-#                 json_file
-#             )
-
-#             daywise_file = (
-#                 f"{config.DATA_DIR}/"
-#                 f"{config.YEAR}/"
-#                 f"{city.name}_daywise.json"
 #             )
 
 #             export_daywise_json(
 #                 festivals,
-#                 daywise_file
+#                 json_file,
+#                 city.name,
+#                 years
+#             )
+
+
+#             successful_cities.append(
+#                 city.name
 #             )
 
 #             success += 1
@@ -358,22 +343,20 @@ if __name__ == "__main__":
 
 #             failed += 1
 
-        
-
 #             print()
 #             print(f"ERROR : {city.name}")
 #             print(e)
 #             print()
 
-#     city_names = [city.name for city in cities]
+#     # ---------------------------------
+#     # Build Manifest
+#     # ---------------------------------
 
-#     build_manifest(
-#         config.YEAR,
-#         city_names,
+#     manifest_file = (
 #         f"{config.DATA_DIR}/manifest.json"
 #     )
-
-
+ 
+#     build_manifest(manifest_file)
 
 #     # ---------------------------------
 #     # Summary
@@ -451,196 +434,4 @@ if __name__ == "__main__":
 
 
 
-# import config
-# import requests
 
-# from downloader import CalendarDownloader
-# from parser import extract_cities
-# from ics_parser import parse_ics
-# from festival_builder import build_festivals
-# from exporter import export_json
-
-
-# def main():
-
-#     print("=" * 50)
-#     print(f"Building ALL Cities ({config.YEAR})")
-#     print("=" * 50)
-
-#     downloader = CalendarDownloader()
-
-#     # Download city index
-#     index_url = config.get_ics_year_url(config.YEAR)
-
-#     downloader.download_page(
-#         index_url,
-#         f"{config.CACHE_DIR}/ics_{config.YEAR}.html"
-#     )
-
-#     # Get all cities
-#     cities = extract_cities(
-#         f"{config.CACHE_DIR}/ics_{config.YEAR}.html",
-#         config.YEAR
-#     )
-
-#     print(f"Cities Found : {len(cities)}")
-#     print()
-
-#     success = 0
-
-#     for city in cities:
-
-#         print("-" * 50)
-#         print(city.name)
-
-#         try:
-
-#             ics_file = (
-#                 f"{config.ICS_CACHE_DIR}/"
-#                 f"{city.name}_{config.YEAR}.ics"
-#             )
-
-#             downloader.download_file(
-#                 city.ics_url,
-#                 ics_file
-#             )
-
-            
-
-
-#             events = parse_ics(ics_file)
-
-#             festivals = build_festivals(events)
-
-#             json_file = (
-#                 f"{config.DATA_DIR}/"
-#                 f"{config.YEAR}/"
-#                 f"{city.name}.json"
-#             )
-
-#             export_json(
-#                 festivals,
-#                 json_file
-#             )
-
-#             success += 1
-
-#         except Exception as e:
-
-#             print(f"ERROR : {city.name}")
-#             print(e)
-
-#     print()
-#     print("=" * 50)
-#     print(f"Completed : {success}/{len(cities)} cities")
-#     print("=" * 50)
-
-
-# if __name__ == "__main__":
-#     main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# import config
-
-# from utils import safe_filename
-# from downloader import CalendarDownloader
-# from parser import extract_cities
-# from ics_parser import parse_ics
-# from festival_builder import build_festivals
-# from exporter import export_json
-
-
-# def main():
-
-#     print("=" * 60)
-#     print("Building ALL ISKCON Calendars")
-#     print("=" * 60)
-
-#     downloader = CalendarDownloader()
-
-#     html_file = f"{config.CACHE_DIR}/ics_{config.YEAR}.html"
-
-#     downloader.download_page(
-#         config.get_ics_year_url(config.YEAR),
-#         html_file
-#     )
-
-#     cities = extract_cities(
-#         html_file,
-#         config.YEAR
-#     )
-
-#     print(f"\nCities found : {len(cities)}\n")
-
-#     success = 0
-
-#     for city in cities:
-
-#         try:
-
-#             print(f"[{success+1}/{len(cities)}] {city.city}")
-
-#             ics_file = (
-#                 f"{config.ICS_CACHE_DIR}/"
-#                 f"{safe_filename(city.city)}_{config.YEAR}.ics"
-#             )
-
-#             downloader.download_file(
-#                 city.ics_url,
-#                 ics_file
-#             )
-
-#             events = parse_ics(ics_file)
-
-#             festivals = build_festivals(events)
-
-#             json_file = (
-#                 f"{config.DATA_DIR}/"
-#                 f"{config.YEAR}/"
-#                 f"{safe_filename(city.city)}.json"
-#             )
-
-#             export_json(
-#                 festivals,
-#                 json_file
-#             )
-
-#             success += 1
-
-#         except Exception as e:
-
-#             print("FAILED:", city.city)
-#             print(e)
-
-#     print()
-#     print("=" * 60)
-#     print(f"Finished : {success}/{len(cities)}")
-#     print("=" * 60)
-
-
-# if __name__ == "__main__":
-#     main()

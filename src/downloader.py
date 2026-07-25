@@ -4,6 +4,7 @@ Calendar Downloader
 
 from pathlib import Path
 import requests
+import time
 
 
 class CalendarDownloader:
@@ -44,19 +45,34 @@ class CalendarDownloader:
         print(f"Saved: {filename}")
 
 
+
     def download_file(self, url, filename):
 
-        print(f"Downloading file:\n{url}")
+        for attempt in range(3):
 
-        response = self.session.get(url, timeout=60)
-        response.raise_for_status()
+            try:
 
-        Path(filename).parent.mkdir(parents=True, exist_ok=True)
+                print(f"Downloading file:\n{url}")
 
-        with open(filename, "wb") as f:
-            f.write(response.content)
+                response = self.session.get(url, timeout=60)
+                response.raise_for_status()
 
-        print(f"Saved: {filename}")
+                with open(filename, "wb") as f:
+                    f.write(response.content)
+
+                print(f"Saved: {filename}")
+                return True
+
+            except requests.RequestException as ex:
+
+                print(f"Download failed (attempt {attempt + 1}/3): {ex}")
+
+                if attempt < 2:
+                    time.sleep(5)
+                else:
+                    print(f"Skipping: {url}")
+                    return False
+
 
 
     def download_year_index(self, year, cache_file):
