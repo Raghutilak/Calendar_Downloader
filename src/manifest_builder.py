@@ -1,7 +1,6 @@
 import json
 from pathlib import Path
 from datetime import datetime
-
 from geo_lookup import get_city_info
 
 
@@ -35,24 +34,6 @@ class ManifestBuilder:
         self.manifest["years"].sort()
 
         self.manifest["latestYear"] = max(self.manifest["years"])
-
-
-    # def add_city(self, city, country):
-
-    #     # Avoid duplicates
-    #     for c in self.manifest["cities"]:
-    #         if c["name"] == city and c["country"] == country:
-    #             return
-
-    #     info = get_city_info(city, country)
-
-    #     self.manifest["cities"].append({
-    #         "name": city,
-    #         "country": country,
-    #         "lat": info["lat"],
-    #         "lon": info["lon"]
-    #     })
-
 
 
     def add_city(self, city, country):
@@ -101,39 +82,4 @@ class ManifestBuilder:
         print(f"Manifest saved : {output}")
 
 
-    def add_year(self, year):
-
-        if year not in self.manifest["years"]:
-            self.manifest["years"].append(year)
-
-        self.manifest["years"].sort()
-
-        self.manifest["latestYear"] = max(
-            self.manifest["years"]
-        )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
