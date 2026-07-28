@@ -27,5 +27,13 @@ jobs:
       - name: Show project files
         run: ls -R
 
+      - name: Show config.py
+        run: cat src/config.py
+
+      - name: Show build_all.py
+        run: head -40 src/build_all.py
+
       - name: Run downloader
         run: python src/build_all.py
+
+
