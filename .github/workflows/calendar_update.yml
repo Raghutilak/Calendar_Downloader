@@ -36,4 +36,8 @@ jobs:
       - name: Run downloader
         run: python src/build_all.py
 
-
+      - name: Upload Calendar_Data
+        uses: actions/upload-artifact@v4
+        with:
+          name: Calendar_Data
+          path: Calendar_Data
