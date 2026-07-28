@@ -57,6 +57,8 @@ class CalendarDownloader:
                 response = self.session.get(url, timeout=60)
                 response.raise_for_status()
 
+                Path(filename).parent.mkdir(parents=True, exist_ok=True)
+
                 with open(filename, "wb") as f:
                     f.write(response.content)
 
@@ -105,37 +107,6 @@ class CalendarDownloader:
                 return False
 
             raise
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

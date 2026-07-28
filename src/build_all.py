@@ -6,7 +6,7 @@ from ics_parser import parse_ics
 from festival_builder import build_festivals
 from export_daywise import export_daywise_json
 from manifest_builder import ManifestBuilder
-# from manifest_builder import build_manifest
+
 
 
 def main():
@@ -147,7 +147,7 @@ def main():
     # ---------------------------------
 
     manifest.save()
-    
+
     # ---------------------------------
     # Final Summary
     # ---------------------------------
