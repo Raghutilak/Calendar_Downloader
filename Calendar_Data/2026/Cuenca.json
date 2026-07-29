@@ -1,0 +1,3134 @@
+{
+  "version": "1.0.0",
+  "city": "Cuenca",
+  "year": 2026,
+  "dates": {
+    "2026-01-03": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Sri Krsna Pusya Abhiseka",
+          "date": "2026-01-03",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-01-07": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Sri Ramacandra Kaviraja -- Disappearance",
+          "date": "2026-01-07",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srila Gopala Bhatta Gosvami -- Appearance",
+          "date": "2026-01-07",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-01-08": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Sri Jayadeva Gosvami -- Disappearance",
+          "date": "2026-01-08",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-01-09": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Locana Dasa Thakura -- Disappearance",
+          "date": "2026-01-09",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-01-14": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Fasting for Sat-tila Ekadasi",
+          "date": "2026-01-14",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Ganga Sagara Mela",
+          "date": "2026-01-14",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-01-15": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2026-01-15",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:17",
+          "break_fast_end": "09:48",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-01-23": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Srimati Visnupriya Devi -- Appearance",
+          "date": "2026-01-23",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srila Visvanatha Cakravarti Thakura -- Disappearance",
+          "date": "2026-01-23",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Pundarika Vidyanidhi -- Appearance",
+          "date": "2026-01-23",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Raghunandana Thakura -- Appearance",
+          "date": "2026-01-23",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srila Raghunatha Dasa Gosvami -- Appearance",
+          "date": "2026-01-23",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Vasanta Pancami",
+          "date": "2026-01-23",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sarasvati Puja",
+          "date": "2026-01-23",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-01-25": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Sri Advaita Acarya -- Appearance",
+          "date": "2026-01-25",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2026-01-25",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-01-26": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Bhismastami",
+          "date": "2026-01-26",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-01-27": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Madhvacarya -- Disappearance",
+          "date": "2026-01-27",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-01-28": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Sri Ramanujacarya -- Disappearance",
+          "date": "2026-01-28",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-01-29": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Fasting for Bhaimi Ekadasi",
+          "date": "2026-01-29",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Varaha Dvadasi: Appearance of Lord Varahadeva",
+          "date": "2026-01-29",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fasting till noon, with feast tomorrow)",
+          "date": "2026-01-29",
+          "category": "Festival",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon for Sri Nityananda, with feast tomorrow)",
+          "date": "2026-01-29",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-01-30": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Nityananda Trayodasi: Appearance of Sri Nityananda Prabhu",
+          "date": "2026-01-30",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fasting is done yesterday, today is feast)",
+          "date": "2026-01-30",
+          "category": "Festival",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2026-01-30",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:22",
+          "break_fast_end": "10:26",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-02-01": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Srila Narottama Dasa Thakura -- Appearance",
+          "date": "2026-02-01",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Krsna Madhura Utsava",
+          "date": "2026-02-01",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-02-06": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Srila Bhaktisiddhanta Sarasvati Thakura -- Appearance",
+          "date": "2026-02-06",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Purusottama Das Thakura -- Disappearance",
+          "date": "2026-02-06",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2026-02-06",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-02-12": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Fasting for Vijaya Ekadasi",
+          "date": "2026-02-12",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-02-13": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Isvara Puri -- Disappearance",
+          "date": "2026-02-13",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2026-02-13",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "10:22",
+          "break_fast_end": "10:28",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-02-16": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Siva Ratri",
+          "date": "2026-02-16",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-02-18": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Srila Jagannatha Dasa Babaji -- Disappearance",
+          "date": "2026-02-18",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Rasikananda -- Disappearance",
+          "date": "2026-02-18",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-02-20": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Purusottama Dasa Thakura -- Appearance",
+          "date": "2026-02-20",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-02-27": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Fasting for Amalaki vrata Ekadasi",
+          "date": "2026-02-27",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-02-28": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Sri Madhavendra Puri -- Disappearance",
+          "date": "2026-02-28",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2026-02-28",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:23",
+          "break_fast_end": "10:15",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-03-03": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Gaura Purnima: Appearance of Sri Caitanya Mahaprabhu",
+          "date": "2026-03-03",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till moonrise)",
+          "date": "2026-03-03",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-03-04": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Festival of Jagannatha Misra",
+          "date": "2026-03-04",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-03-11": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Sri Srivasa Pandita -- Appearance",
+          "date": "2026-03-11",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-03-14": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Fasting for Papamocani Ekadasi",
+          "date": "2026-03-14",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-03-15": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Sri Govinda Ghosh -- Disappearance",
+          "date": "2026-03-15",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2026-03-15",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:21",
+          "break_fast_end": "10:23",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-03-23": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Sri Ramanujacarya -- Appearance",
+          "date": "2026-03-23",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-03-26": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Rama Navami: Appearance of Lord Sri Ramacandra",
+          "date": "2026-03-26",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till sunset)",
+          "date": "2026-03-26",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-03-28": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Fasting for Kamada Ekadasi",
+          "date": "2026-03-28",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-03-29": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Damanakaropana Dvadasi",
+          "date": "2026-03-29",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2026-03-29",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:18",
+          "break_fast_end": "10:19",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-04-01": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Appearance of Radha Kunda, snana dana",
+          "date": "2026-04-01",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Vamsivadana Thakura -- Appearance",
+          "date": "2026-04-01",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Syamananda Prabhu -- Appearance",
+          "date": "2026-04-01",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Balarama Rasayatra",
+          "date": "2026-04-01",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Krsna Vasanta Rasa",
+          "date": "2026-04-01",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-04-09": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Sri Abhirama Thakura -- Disappearance",
+          "date": "2026-04-09",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-04-12": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Srila Vrndavana Dasa Thakura -- Disappearance",
+          "date": "2026-04-12",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-04-13": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Fasting for Varuthini Ekadasi",
+          "date": "2026-04-13",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-04-14": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Tulasi Jala Dan begins.",
+          "date": "2026-04-14",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2026-04-14",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:14",
+          "break_fast_end": "10:15",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-04-17": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Gadadhara Pandita -- Appearance",
+          "date": "2026-04-17",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-04-19": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Aksaya Trtiya. Candana Yatra starts. (Continues for 21 days)",
+          "date": "2026-04-19",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-04-23": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Jahnu Saptami",
+          "date": "2026-04-23",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-04-25": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Srimati Sita Devi (consort of Lord Sri Rama) -- Appearance",
+          "date": "2026-04-25",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Madhu Pandita -- Disappearance",
+          "date": "2026-04-25",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srimati Jahnava Devi -- Appearance",
+          "date": "2026-04-25",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-04-27": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Fasting for Mohini Ekadasi",
+          "date": "2026-04-27",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-04-28": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Rukmini Dvadasi",
+          "date": "2026-04-28",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2026-04-28",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:12",
+          "break_fast_end": "08:24",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-04-29": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Sri Jayananda Prabhu -- Disappearance",
+          "date": "2026-04-29",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-04-30": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Nrsimha Caturdasi: Appearance of Lord Nrsimhadeva",
+          "date": "2026-04-30",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till dusk)",
+          "date": "2026-04-30",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-05-01": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Sri Radha-Ramana Devaji -- Appearance",
+          "date": "2026-05-01",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Paramesvari Dasa Thakura -- Disappearance",
+          "date": "2026-05-01",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Madhavendra Puri -- Appearance",
+          "date": "2026-05-01",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Srinivasa Acarya -- Appearance",
+          "date": "2026-05-01",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Krsna Phula Dola, Salila Vihara",
+          "date": "2026-05-01",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-05-06": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Sri Ramananda Raya -- Disappearance",
+          "date": "2026-05-06",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-05-12": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Fasting for Apara Ekadasi",
+          "date": "2026-05-12",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-05-13": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Srila Vrndavana Dasa Thakura -- Appearance",
+          "date": "2026-05-13",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2026-05-13",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "08:30",
+          "break_fast_end": "10:12",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-05-14": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Tulasi Jala Dan ends.",
+          "date": "2026-05-14",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-05-26": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Fasting for Padmini Ekadasi",
+          "date": "2026-05-26",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-05-27": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2026-05-27",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:14",
+          "break_fast_end": "10:13",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-06-11": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Fasting for Parama Ekadasi",
+          "date": "2026-06-11",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-06-12": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2026-06-12",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:17",
+          "break_fast_end": "09:08",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-06-23": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Baladeva Vidyabhusana -- Disappearance",
+          "date": "2026-06-23",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srimati Gangamata Gosvamini -- Appearance",
+          "date": "2026-06-23",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Ganga Puja",
+          "date": "2026-06-23",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-06-25": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Fasting for Pandava Nirjala Ekadasi",
+          "date": "2026-06-25",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-06-26": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2026-06-26",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:20",
+          "break_fast_end": "10:19",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-06-27": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Panihati Cida Dahi Utsava",
+          "date": "2026-06-27",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-06-29": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Sri Mukunda Datta -- Disappearance",
+          "date": "2026-06-29",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Sridhara Pandita -- Disappearance",
+          "date": "2026-06-29",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Snana Yatra",
+          "date": "2026-06-29",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-06-30": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Syamananda Prabhu -- Disappearance",
+          "date": "2026-06-30",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-07-04": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Sri Vakresvara Pandita -- Appearance",
+          "date": "2026-07-04",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-07-09": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Sri Srivasa Pandita -- Disappearance",
+          "date": "2026-07-09",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-07-10": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Fasting for Yogini Ekadasi",
+          "date": "2026-07-10",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-07-11": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2026-07-11",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:22",
+          "break_fast_end": "10:21",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-07-14": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Srila Bhaktivinoda Thakura -- Disappearance",
+          "date": "2026-07-14",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Gadadhara Pandita -- Disappearance",
+          "date": "2026-07-14",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Gundica Marjana",
+          "date": "2026-07-14",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2026-07-14",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-07-15": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Sri Svarupa Damodara Gosvami -- Disappearance",
+          "date": "2026-07-15",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Sivananda Sena -- Disappearance",
+          "date": "2026-07-15",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Ratha Yatra",
+          "date": "2026-07-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-07-19": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Sri Vakresvara Pandita -- Disappearance",
+          "date": "2026-07-19",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Hera Pancami (4 days after Ratha Yatra)",
+          "date": "2026-07-19",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-07-23": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Return Ratha (8 days after Ratha Yatra)",
+          "date": "2026-07-23",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-07-24": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Fasting for Sayana Ekadasi",
+          "date": "2026-07-24",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-07-25": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2026-07-25",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "07:41",
+          "break_fast_end": "10:22",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-07-29": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Srila Sanatana Gosvami -- Disappearance",
+          "date": "2026-07-29",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Guru (Vyasa) Purnima",
+          "date": "2026-07-29",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "First month of Caturmasya begins [PURNIMA SYSTEM]",
+          "date": "2026-07-29",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(green leafy vegetable fast for one month)",
+          "date": "2026-07-29",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-08-03": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Srila Gopala Bhatta Gosvami -- Disappearance",
+          "date": "2026-08-03",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-08-06": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Srila Lokanatha Gosvami -- Disappearance",
+          "date": "2026-08-06",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-08-07": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "The incorporation of ISKCON in New York",
+          "date": "2026-08-07",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-08-08": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Fasting for Kamika Ekadasi",
+          "date": "2026-08-08",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-08-09": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2026-08-09",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:21",
+          "break_fast_end": "10:21",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-08-16": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Sri Vamsidasa Babaji -- Disappearance",
+          "date": "2026-08-16",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Raghunandana Thakura -- Disappearance",
+          "date": "2026-08-16",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-08-23": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Fasting for Pavitraropana Ekadasi",
+          "date": "2026-08-23",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Radha Govinda Jhulana Yatra begins",
+          "date": "2026-08-23",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-08-24": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Srila Rupa Gosvami -- Disappearance",
+          "date": "2026-08-24",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Gauridasa Pandita -- Disappearance",
+          "date": "2026-08-24",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2026-08-24",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:17",
+          "break_fast_end": "10:17",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-08-26": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Last day of the first Caturmasya month [PURNIMA SYSTEM]",
+          "date": "2026-08-26",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-08-27": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Lord Balarama -- Appearance",
+          "date": "2026-08-27",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2026-08-27",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Jhulana Yatra ends",
+          "date": "2026-08-27",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Second month of Caturmasya begins [PURNIMA SYSTEM]",
+          "date": "2026-08-27",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(yogurt fast for one month)",
+          "date": "2026-08-27",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-08-28": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Srila Prabhupada\\'s departure for the USA",
+          "date": "2026-08-28",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-09-04": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Krsna Janmastami: Appearance of Lord Sri Krsna",
+          "date": "2026-09-04",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till midnight)",
+          "date": "2026-09-04",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-09-05": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Srila Prabhupada -- Appearance",
+          "date": "2026-09-05",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Nandotsava",
+          "date": "2026-09-05",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2026-09-05",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-09-07": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Trisprsa Mahadvadasi",
+          "date": "2026-09-07",
+          "category": "Mahadvadasi",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Fasting for Annada Ekadasi",
+          "date": "2026-09-07",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-09-08": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2026-09-08",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:11",
+          "break_fast_end": "10:12",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-09-15": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Srimati Sita Thakurani (Sri Advaita\\'s consort) -- Appearance",
+          "date": "2026-09-15",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-09-18": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Radhastami: Appearance of Srimati Radharani",
+          "date": "2026-09-18",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2026-09-18",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-09-22": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Fasting for Parsva Ekadasi",
+          "date": "2026-09-22",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon for Vamanadeva, with feast tomorrow)",
+          "date": "2026-09-22",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-09-23": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Sri Vamana Dvadasi: Appearance of Lord Vamanadeva",
+          "date": "2026-09-23",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srila Jiva Gosvami -- Appearance",
+          "date": "2026-09-23",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fasting is done yesterday, today is feast)",
+          "date": "2026-09-23",
+          "category": "Festival",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2026-09-23",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:04",
+          "break_fast_end": "10:07",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-09-24": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Srila Bhaktivinoda Thakura -- Appearance",
+          "date": "2026-09-24",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2026-09-24",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-09-25": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Srila Haridasa Thakura -- Disappearance",
+          "date": "2026-09-25",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Ananta Caturdasi Vrata",
+          "date": "2026-09-25",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Last day of the second Caturmasya month [PURNIMA SYSTEM]",
+          "date": "2026-09-25",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-09-26": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Sri Visvarupa Mahotsava",
+          "date": "2026-09-26",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Bhadra Purnima",
+          "date": "2026-09-26",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Acceptance of sannyasa by Srila Prabhupada",
+          "date": "2026-09-26",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Third month of Caturmasya begins [PURNIMA SYSTEM]",
+          "date": "2026-09-26",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(milk fast for one month)",
+          "date": "2026-09-26",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-10-02": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Srila Prabhupada\\'s arrival in the USA",
+          "date": "2026-10-02",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-10-06": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Fasting for Indira Ekadasi",
+          "date": "2026-10-06",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-10-07": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2026-10-07",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "05:59",
+          "break_fast_end": "10:02",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-10-17": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Durga Puja",
+          "date": "2026-10-17",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-10-20": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Madhvacarya -- Appearance",
+          "date": "2026-10-20",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Ramacandra Vijayotsava",
+          "date": "2026-10-20",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-10-21": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Fasting for Pasankusa Ekadasi",
+          "date": "2026-10-21",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-10-22": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Srila Raghunatha Dasa Gosvami -- Disappearance",
+          "date": "2026-10-22",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srila Raghunatha Bhatta Gosvami -- Disappearance",
+          "date": "2026-10-22",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srila Krsnadasa Kaviraja Gosvami -- Disappearance",
+          "date": "2026-10-22",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2026-10-22",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-10-24": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Last day of the third Caturmasya month [PURNIMA SYSTEM]",
+          "date": "2026-10-24",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-10-25": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Sri Murari Gupta -- Disappearance",
+          "date": "2026-10-25",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Krsna Saradiya Rasayatra",
+          "date": "2026-10-25",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Laksmi Puja",
+          "date": "2026-10-25",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Fourth month of Caturmasya begins [PURNIMA SYSTEM]",
+          "date": "2026-10-25",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(urad dal fast for one month)",
+          "date": "2026-10-25",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-10-30": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Srila Narottama Dasa Thakura -- Disappearance",
+          "date": "2026-10-30",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-01": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Bahulastami",
+          "date": "2026-11-01",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-02": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Sri Virabhadra -- Appearance",
+          "date": "2026-11-02",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-04": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Fasting for Rama Ekadasi",
+          "date": "2026-11-04",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-05": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2026-11-05",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:05",
+          "break_fast_end": "09:57",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-08": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Dipa dana, Dipavali, (Kali Puja)",
+          "date": "2026-11-08",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-09": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Sri Rasikananda -- Appearance",
+          "date": "2026-11-09",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Go Puja. Go Krda. Govardhana Puja.",
+          "date": "2026-11-09",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Bali Daityaraja Puja",
+          "date": "2026-11-09",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-10": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Vasudeva Ghosh -- Disappearance",
+          "date": "2026-11-10",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-13": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Srila Prabhupada -- Disappearance",
+          "date": "2026-11-13",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2026-11-13",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-17": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Gadadhara Dasa Gosvami -- Disappearance",
+          "date": "2026-11-17",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Dhananjaya Pandita -- Disappearance",
+          "date": "2026-11-17",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Srinivasa Acarya -- Disappearance",
+          "date": "2026-11-17",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Gopastami, Gosthastami",
+          "date": "2026-11-17",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-18": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Jagaddhatri Puja",
+          "date": "2026-11-18",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-20": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Fasting for Utthana Ekadasi",
+          "date": "2026-11-20",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srila Gaura Kisora Dasa Babaji -- Disappearance",
+          "date": "2026-11-20",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fasting till noon, with feast tomorrow)",
+          "date": "2026-11-20",
+          "category": "Festival",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "First day of Bhisma Pancaka",
+          "date": "2026-11-20",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-21": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2026-11-21",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "05:54",
+          "break_fast_end": "09:59",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-23": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Sri Bhugarbha Gosvami -- Disappearance",
+          "date": "2026-11-23",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Kasisvara Pandita -- Disappearance",
+          "date": "2026-11-23",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Last day of the fourth Caturmasya month [PURNIMA SYSTEM]",
+          "date": "2026-11-23",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-24": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Nimbarkacarya -- Appearance",
+          "date": "2026-11-24",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Krsna Rasayatra",
+          "date": "2026-11-24",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Tulasi-Saligrama Vivaha (marriage)",
+          "date": "2026-11-24",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Last day of Bhisma Pancaka",
+          "date": "2026-11-24",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-11-25": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Katyayani vrata begins",
+          "date": "2026-11-25",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-12-04": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Fasting for Utpanna Ekadasi",
+          "date": "2026-12-04",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Narahari Sarakara Thakura -- Disappearance",
+          "date": "2026-12-04",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-12-05": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Sri Kaliya Krsnadasa -- Disappearance",
+          "date": "2026-12-05",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2026-12-05",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "05:58",
+          "break_fast_end": "10:03",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-12-06": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Sri Saranga Thakura -- Disappearance",
+          "date": "2026-12-06",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-12-15": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Odana sasthi",
+          "date": "2026-12-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-12-16": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "--------- Dhanus Sankranti (Sun enters Sagittarius on 15 Dec, 23:49 LT) ---------",
+          "date": "2026-12-16",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-12-20": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Fasting for Moksada Ekadasi",
+          "date": "2026-12-20",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Advent of Srimad Bhagavad-gita",
+          "date": "2026-12-20",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-12-21": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2026-12-21",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:05",
+          "break_fast_end": "07:07",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-12-23": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Katyayani vrata ends",
+          "date": "2026-12-23",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2026-12-27": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Srila Bhaktisiddhanta Sarasvati Thakura -- Disappearance",
+          "date": "2026-12-27",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2026-12-27",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    }
+  }
+}
