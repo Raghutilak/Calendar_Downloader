@@ -1,0 +1,3356 @@
+{
+  "version": "1.0.0",
+  "city": "Mysore",
+  "year": 2027,
+  "dates": {
+    "2027-01-03": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Fasting for Saphala Ekadasi",
+          "date": "2027-01-03",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Devananda Pandita -- Disappearance",
+          "date": "2027-01-03",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-01-04": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2027-01-04",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:45",
+          "break_fast_end": "10:33",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-01-05": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Mahesa Pandita -- Disappearance",
+          "date": "2027-01-05",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Uddharana Datta Thakura -- Disappearance",
+          "date": "2027-01-05",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-01-08": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Locana Dasa Thakura -- Appearance",
+          "date": "2027-01-08",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-01-11": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Srila Jiva Gosvami -- Disappearance",
+          "date": "2027-01-11",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Jagadisa Pandita -- Disappearance",
+          "date": "2027-01-11",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-01-15": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Ganga Sagara Mela",
+          "date": "2027-01-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-01-19": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Trisprsa Mahadvadasi",
+          "date": "2027-01-19",
+          "category": "Mahadvadasi",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Fasting for Putrada Ekadasi",
+          "date": "2027-01-19",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-01-20": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Sri Jagadisa Pandita -- Appearance",
+          "date": "2027-01-20",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2027-01-20",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:48",
+          "break_fast_end": "10:39",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-01-22": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Krsna Pusya Abhiseka",
+          "date": "2027-01-22",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-01-26": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Ramacandra Kaviraja -- Disappearance",
+          "date": "2027-01-26",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srila Gopala Bhatta Gosvami -- Appearance",
+          "date": "2027-01-26",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-01-27": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Sri Jayadeva Gosvami -- Disappearance",
+          "date": "2027-01-27",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-01-28": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Sri Locana Dasa Thakura -- Disappearance",
+          "date": "2027-01-28",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-02-02": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Fasting for Sat-tila Ekadasi",
+          "date": "2027-02-02",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-02-03": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2027-02-03",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:48",
+          "break_fast_end": "10:40",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-02-11": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Srimati Visnupriya Devi -- Appearance",
+          "date": "2027-02-11",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srila Visvanatha Cakravarti Thakura -- Disappearance",
+          "date": "2027-02-11",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Pundarika Vidyanidhi -- Appearance",
+          "date": "2027-02-11",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Raghunandana Thakura -- Appearance",
+          "date": "2027-02-11",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srila Raghunatha Dasa Gosvami -- Appearance",
+          "date": "2027-02-11",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Vasanta Pancami",
+          "date": "2027-02-11",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sarasvati Puja",
+          "date": "2027-02-11",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-02-13": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Sri Advaita Acarya -- Appearance",
+          "date": "2027-02-13",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2027-02-13",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-02-14": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Bhismastami",
+          "date": "2027-02-14",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-02-15": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Sri Madhvacarya -- Disappearance",
+          "date": "2027-02-15",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-02-16": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Ramanujacarya -- Disappearance",
+          "date": "2027-02-16",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-02-17": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Fasting for Bhaimi Ekadasi",
+          "date": "2027-02-17",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon for Varahadeva, with feast tomorrow)",
+          "date": "2027-02-17",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-02-18": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Varaha Dvadasi: Appearance of Lord Varahadeva",
+          "date": "2027-02-18",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fasting is done yesterday, today is feast)",
+          "date": "2027-02-18",
+          "category": "Festival",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2027-02-18",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:44",
+          "break_fast_end": "10:39",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-02-19": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Nityananda Trayodasi: Appearance of Sri Nityananda Prabhu",
+          "date": "2027-02-19",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2027-02-19",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-02-21": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Srila Narottama Dasa Thakura -- Appearance",
+          "date": "2027-02-21",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Krsna Madhura Utsava",
+          "date": "2027-02-21",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-02-25": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Srila Bhaktisiddhanta Sarasvati Thakura -- Appearance",
+          "date": "2027-02-25",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Purusottama Das Thakura -- Disappearance",
+          "date": "2027-02-25",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2027-02-25",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-03-04": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Unmilani Mahadvadasi",
+          "date": "2027-03-04",
+          "category": "Mahadvadasi",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Fasting for Vijaya Ekadasi",
+          "date": "2027-03-04",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-03-05": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Isvara Puri -- Disappearance",
+          "date": "2027-03-05",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2027-03-05",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:37",
+          "break_fast_end": "09:55",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-03-07": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Siva Ratri",
+          "date": "2027-03-07",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-03-09": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Srila Jagannatha Dasa Babaji -- Disappearance",
+          "date": "2027-03-09",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Rasikananda -- Disappearance",
+          "date": "2027-03-09",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-03-12": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Purusottama Dasa Thakura -- Appearance",
+          "date": "2027-03-12",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-03-18": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Fasting for Amalaki vrata Ekadasi",
+          "date": "2027-03-18",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-03-19": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Madhavendra Puri -- Disappearance",
+          "date": "2027-03-19",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2027-03-19",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "07:14",
+          "break_fast_end": "10:30",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-03-22": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Gaura Purnima: Appearance of Sri Caitanya Mahaprabhu",
+          "date": "2027-03-22",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till moonrise)",
+          "date": "2027-03-22",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-03-23": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Festival of Jagannatha Misra",
+          "date": "2027-03-23",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-03-30": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Srivasa Pandita -- Appearance",
+          "date": "2027-03-30",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-04-02": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Fasting for Papamocani Ekadasi",
+          "date": "2027-04-02",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-04-03": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Sri Govinda Ghosh -- Disappearance",
+          "date": "2027-04-03",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2027-04-03",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "09:17",
+          "break_fast_end": "10:24",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-04-11": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Sri Ramanujacarya -- Appearance",
+          "date": "2027-04-11",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-04-15": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Rama Navami: Appearance of Lord Sri Ramacandra",
+          "date": "2027-04-15",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till sunset)",
+          "date": "2027-04-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Tulasi Jala Dan begins.",
+          "date": "2027-04-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-04-17": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Fasting for Kamada Ekadasi",
+          "date": "2027-04-17",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-04-18": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Damanakaropana Dvadasi",
+          "date": "2027-04-18",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2027-04-18",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:09",
+          "break_fast_end": "07:43",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-04-20": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Appearance of Radha Kunda, snana dana",
+          "date": "2027-04-20",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Vamsivadana Thakura -- Appearance",
+          "date": "2027-04-20",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Syamananda Prabhu -- Appearance",
+          "date": "2027-04-20",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Balarama Rasayatra",
+          "date": "2027-04-20",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Krsna Vasanta Rasa",
+          "date": "2027-04-20",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-04-28": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Sri Abhirama Thakura -- Disappearance",
+          "date": "2027-04-28",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-05-01": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Srila Vrndavana Dasa Thakura -- Disappearance",
+          "date": "2027-05-01",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-05-02": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Fasting for Varuthini Ekadasi",
+          "date": "2027-05-02",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-05-03": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2027-05-03",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:02",
+          "break_fast_end": "10:14",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-05-06": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Sri Gadadhara Pandita -- Appearance",
+          "date": "2027-05-06",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-05-09": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Aksaya Trtiya. Candana Yatra starts. (Continues for 21 days)",
+          "date": "2027-05-09",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-05-12": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Jahnu Saptami",
+          "date": "2027-05-12",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-05-14": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Srimati Sita Devi (consort of Lord Sri Rama) -- Appearance",
+          "date": "2027-05-14",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Madhu Pandita -- Disappearance",
+          "date": "2027-05-14",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srimati Jahnava Devi -- Appearance",
+          "date": "2027-05-14",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Tulasi Jala Dan ends.",
+          "date": "2027-05-14",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-05-16": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Fasting for Mohini Ekadasi",
+          "date": "2027-05-16",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-05-17": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Rukmini Dvadasi",
+          "date": "2027-05-17",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2027-05-17",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "05:58",
+          "break_fast_end": "10:12",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-05-18": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Jayananda Prabhu -- Disappearance",
+          "date": "2027-05-18",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-05-19": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Nrsimha Caturdasi: Appearance of Lord Nrsimhadeva",
+          "date": "2027-05-19",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till dusk)",
+          "date": "2027-05-19",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-05-20": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Sri Sri Radha-Ramana Devaji -- Appearance",
+          "date": "2027-05-20",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Paramesvari Dasa Thakura -- Disappearance",
+          "date": "2027-05-20",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Madhavendra Puri -- Appearance",
+          "date": "2027-05-20",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Srinivasa Acarya -- Appearance",
+          "date": "2027-05-20",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Krsna Phula Dola, Salila Vihara",
+          "date": "2027-05-20",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-05-25": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Ramananda Raya -- Disappearance",
+          "date": "2027-05-25",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-06-01": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Fasting for Apara Ekadasi",
+          "date": "2027-06-01",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-06-02": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Srila Vrndavana Dasa Thakura -- Appearance",
+          "date": "2027-06-02",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2027-06-02",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "05:57",
+          "break_fast_end": "08:30",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-06-13": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Sri Baladeva Vidyabhusana -- Disappearance",
+          "date": "2027-06-13",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srimati Gangamata Gosvamini -- Appearance",
+          "date": "2027-06-13",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Ganga Puja",
+          "date": "2027-06-13",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-06-15": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Paksa vardhini Mahadvadasi",
+          "date": "2027-06-15",
+          "category": "Mahadvadasi",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Fasting for Pandava Nirjala Ekadasi",
+          "date": "2027-06-15",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-06-16": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Panihati Cida Dahi Utsava",
+          "date": "2027-06-16",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2027-06-16",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "05:58",
+          "break_fast_end": "10:15",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-06-18": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Mukunda Datta -- Disappearance",
+          "date": "2027-06-18",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Sridhara Pandita -- Disappearance",
+          "date": "2027-06-18",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Snana Yatra",
+          "date": "2027-06-18",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-06-20": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Sri Syamananda Prabhu -- Disappearance",
+          "date": "2027-06-20",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-06-24": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Sri Vakresvara Pandita -- Appearance",
+          "date": "2027-06-24",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-06-29": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Srivasa Pandita -- Disappearance",
+          "date": "2027-06-29",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-06-30": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Fasting for Yogini Ekadasi",
+          "date": "2027-06-30",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-07-01": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2027-07-01",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:02",
+          "break_fast_end": "10:18",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-07-04": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Srila Bhaktivinoda Thakura -- Disappearance",
+          "date": "2027-07-04",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Gadadhara Pandita -- Disappearance",
+          "date": "2027-07-04",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Gundica Marjana",
+          "date": "2027-07-04",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2027-07-04",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-07-05": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Sri Svarupa Damodara Gosvami -- Disappearance",
+          "date": "2027-07-05",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Sivananda Sena -- Disappearance",
+          "date": "2027-07-05",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Ratha Yatra",
+          "date": "2027-07-05",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-07-09": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Vakresvara Pandita -- Disappearance",
+          "date": "2027-07-09",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Hera Pancami (4 days after Ratha Yatra)",
+          "date": "2027-07-09",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-07-13": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Return Ratha (8 days after Ratha Yatra)",
+          "date": "2027-07-13",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-07-14": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Fasting for Sayana Ekadasi",
+          "date": "2027-07-14",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-07-15": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2027-07-15",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:05",
+          "break_fast_end": "10:21",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-07-18": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Srila Sanatana Gosvami -- Disappearance",
+          "date": "2027-07-18",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Guru (Vyasa) Purnima",
+          "date": "2027-07-18",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "First month of Caturmasya begins [PURNIMA SYSTEM]",
+          "date": "2027-07-18",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(green leafy vegetable fast for one month)",
+          "date": "2027-07-18",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-07-24": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Srila Gopala Bhatta Gosvami -- Disappearance",
+          "date": "2027-07-24",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-07-27": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Srila Lokanatha Gosvami -- Disappearance",
+          "date": "2027-07-27",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-07-28": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "The incorporation of ISKCON in New York",
+          "date": "2027-07-28",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-07-30": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Fasting for Kamika Ekadasi",
+          "date": "2027-07-30",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-07-31": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2027-07-31",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:09",
+          "break_fast_end": "10:23",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-08-05": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Sri Vamsidasa Babaji -- Disappearance",
+          "date": "2027-08-05",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Raghunandana Thakura -- Disappearance",
+          "date": "2027-08-05",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-08-12": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Fasting for Pavitraropana Ekadasi",
+          "date": "2027-08-12",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Radha Govinda Jhulana Yatra begins",
+          "date": "2027-08-12",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-08-13": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Srila Rupa Gosvami -- Disappearance",
+          "date": "2027-08-13",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Gauridasa Pandita -- Disappearance",
+          "date": "2027-08-13",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2027-08-13",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "09:36",
+          "break_fast_end": "10:22",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-08-16": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Last day of the first Caturmasya month [PURNIMA SYSTEM]",
+          "date": "2027-08-16",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-08-17": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Lord Balarama -- Appearance",
+          "date": "2027-08-17",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2027-08-17",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Jhulana Yatra ends",
+          "date": "2027-08-17",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Second month of Caturmasya begins [PURNIMA SYSTEM]",
+          "date": "2027-08-17",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(yogurt fast for one month)",
+          "date": "2027-08-17",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-08-18": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Srila Prabhupada\\'s departure for the USA",
+          "date": "2027-08-18",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-08-25": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Sri Krsna Janmastami: Appearance of Lord Sri Krsna",
+          "date": "2027-08-25",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till midnight)",
+          "date": "2027-08-25",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-08-26": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Srila Prabhupada -- Appearance",
+          "date": "2027-08-26",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Nandotsava",
+          "date": "2027-08-26",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2027-08-26",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-08-28": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Fasting for Annada Ekadasi",
+          "date": "2027-08-28",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-08-29": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2027-08-29",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:12",
+          "break_fast_end": "09:37",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-09-05": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Srimati Sita Thakurani (Sri Advaita\\'s consort) -- Appearance",
+          "date": "2027-09-05",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-09-08": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Radhastami: Appearance of Srimati Radharani",
+          "date": "2027-09-08",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2027-09-08",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-09-11": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Fasting for Parsva Ekadasi",
+          "date": "2027-09-11",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon for Vamanadeva, with feast tomorrow)",
+          "date": "2027-09-11",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-09-12": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Sri Vamana Dvadasi: Appearance of Lord Vamanadeva",
+          "date": "2027-09-12",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srila Jiva Gosvami -- Appearance",
+          "date": "2027-09-12",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fasting is done yesterday, today is feast)",
+          "date": "2027-09-12",
+          "category": "Festival",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2027-09-12",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:12",
+          "break_fast_end": "10:17",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-09-13": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Srila Bhaktivinoda Thakura -- Appearance",
+          "date": "2027-09-13",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2027-09-13",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-09-14": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Srila Haridasa Thakura -- Disappearance",
+          "date": "2027-09-14",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Ananta Caturdasi Vrata",
+          "date": "2027-09-14",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Last day of the second Caturmasya month [PURNIMA SYSTEM]",
+          "date": "2027-09-14",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-09-15": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Sri Visvarupa Mahotsava",
+          "date": "2027-09-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Bhadra Purnima",
+          "date": "2027-09-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Acceptance of sannyasa by Srila Prabhupada",
+          "date": "2027-09-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Third month of Caturmasya begins [PURNIMA SYSTEM]",
+          "date": "2027-09-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(milk fast for one month)",
+          "date": "2027-09-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-09-22": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Srila Prabhupada\\'s arrival in the USA",
+          "date": "2027-09-22",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-09-26": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Fasting for Indira Ekadasi",
+          "date": "2027-09-26",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-09-27": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2027-09-27",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:12",
+          "break_fast_end": "10:13",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-10-06": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Durga Puja",
+          "date": "2027-10-06",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-10-10": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Sri Madhvacarya -- Appearance",
+          "date": "2027-10-10",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Ramacandra Vijayotsava",
+          "date": "2027-10-10",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-10-11": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Fasting for Pasankusa Ekadasi",
+          "date": "2027-10-11",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-10-12": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Srila Raghunatha Dasa Gosvami -- Disappearance",
+          "date": "2027-10-12",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srila Raghunatha Bhatta Gosvami -- Disappearance",
+          "date": "2027-10-12",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srila Krsnadasa Kaviraja Gosvami -- Disappearance",
+          "date": "2027-10-12",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2027-10-12",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:12",
+          "break_fast_end": "10:10",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-10-14": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Last day of the third Caturmasya month [PURNIMA SYSTEM]",
+          "date": "2027-10-14",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-10-15": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Murari Gupta -- Disappearance",
+          "date": "2027-10-15",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Krsna Saradiya Rasayatra",
+          "date": "2027-10-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Laksmi Puja",
+          "date": "2027-10-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Fourth month of Caturmasya begins [PURNIMA SYSTEM]",
+          "date": "2027-10-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(urad dal fast for one month)",
+          "date": "2027-10-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-10-20": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Srila Narottama Dasa Thakura -- Disappearance",
+          "date": "2027-10-20",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-10-23": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Bahulastami",
+          "date": "2027-10-23",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-10-24": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Sri Virabhadra -- Appearance",
+          "date": "2027-10-24",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-10-26": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Fasting for Rama Ekadasi",
+          "date": "2027-10-26",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-10-27": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2027-10-27",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:15",
+          "break_fast_end": "10:09",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-10-29": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Dipa dana, Dipavali, (Kali Puja)",
+          "date": "2027-10-29",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-10-30": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Sri Rasikananda -- Appearance",
+          "date": "2027-10-30",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Go Puja. Go Krda. Govardhana Puja.",
+          "date": "2027-10-30",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Bali Daityaraja Puja",
+          "date": "2027-10-30",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-10-31": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Sri Vasudeva Ghosh -- Disappearance",
+          "date": "2027-10-31",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-11-02": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Srila Prabhupada -- Disappearance",
+          "date": "2027-11-02",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2027-11-02",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-11-06": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Sri Gadadhara Dasa Gosvami -- Disappearance",
+          "date": "2027-11-06",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Dhananjaya Pandita -- Disappearance",
+          "date": "2027-11-06",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Srinivasa Acarya -- Disappearance",
+          "date": "2027-11-06",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Gopastami, Gosthastami",
+          "date": "2027-11-06",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-11-07": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Jagaddhatri Puja",
+          "date": "2027-11-07",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-11-10": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Fasting for Utthana Ekadasi",
+          "date": "2027-11-10",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Srila Gaura Kisora Dasa Babaji -- Disappearance",
+          "date": "2027-11-10",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fasting till noon, with feast tomorrow)",
+          "date": "2027-11-10",
+          "category": "Festival",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "First day of Bhisma Pancaka",
+          "date": "2027-11-10",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-11-11": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2027-11-11",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:19",
+          "break_fast_end": "10:08",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-11-13": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Sri Bhugarbha Gosvami -- Disappearance",
+          "date": "2027-11-13",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Kasisvara Pandita -- Disappearance",
+          "date": "2027-11-13",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Last day of the fourth Caturmasya month [PURNIMA SYSTEM]",
+          "date": "2027-11-13",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-11-14": {
+      "day": "Sunday",
+      "festivals": [
+        {
+          "title": "Sri Nimbarkacarya -- Appearance",
+          "date": "2027-11-14",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Krsna Rasayatra",
+          "date": "2027-11-14",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Tulasi-Saligrama Vivaha (marriage)",
+          "date": "2027-11-14",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Last day of Bhisma Pancaka",
+          "date": "2027-11-14",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-11-15": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Katyayani vrata begins",
+          "date": "2027-11-15",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-11-24": {
+      "day": "Wednesday",
+      "festivals": [
+        {
+          "title": "Fasting for Utpanna Ekadasi",
+          "date": "2027-11-24",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Narahari Sarakara Thakura -- Disappearance",
+          "date": "2027-11-24",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-11-25": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Sri Kaliya Krsnadasa -- Disappearance",
+          "date": "2027-11-25",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Break Fast",
+          "date": "2027-11-25",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:25",
+          "break_fast_end": "10:15",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-11-26": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Sri Saranga Thakura -- Disappearance",
+          "date": "2027-11-26",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-12-04": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Odana sasthi",
+          "date": "2027-12-04",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-12-09": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Fasting for Moksada Ekadasi",
+          "date": "2027-12-09",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Advent of Srimad Bhagavad-gita",
+          "date": "2027-12-09",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-12-10": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2027-12-10",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "09:14",
+          "break_fast_end": "10:21",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-12-13": {
+      "day": "Monday",
+      "festivals": [
+        {
+          "title": "Katyayani vrata ends",
+          "date": "2027-12-13",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-12-17": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Srila Bhaktisiddhanta Sarasvati Thakura -- Disappearance",
+          "date": "2027-12-17",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "(Fast till noon)",
+          "date": "2027-12-17",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "--------- Dhanus Sankranti (Sun enters Sagittarius on 16 Dec, 16:28 LT) ---------",
+          "date": "2027-12-17",
+          "category": "Festival",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 3,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-12-23": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Fasting for Saphala Ekadasi",
+          "date": "2027-12-23",
+          "category": "Ekadasi",
+          "fasting": true,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 5,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Devananda Pandita -- Disappearance",
+          "date": "2027-12-23",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-12-24": {
+      "day": "Friday",
+      "festivals": [
+        {
+          "title": "Break Fast",
+          "date": "2027-12-24",
+          "category": "BreakFast",
+          "fasting": false,
+          "break_fast_start": "06:40",
+          "break_fast_end": "10:28",
+          "priority": 2,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-12-25": {
+      "day": "Saturday",
+      "festivals": [
+        {
+          "title": "Sri Mahesa Pandita -- Disappearance",
+          "date": "2027-12-25",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Uddharana Datta Thakura -- Disappearance",
+          "date": "2027-12-25",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-12-28": {
+      "day": "Tuesday",
+      "festivals": [
+        {
+          "title": "Sri Locana Dasa Thakura -- Appearance",
+          "date": "2027-12-28",
+          "category": "Appearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    },
+    "2027-12-30": {
+      "day": "Thursday",
+      "festivals": [
+        {
+          "title": "Srila Jiva Gosvami -- Disappearance",
+          "date": "2027-12-30",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        },
+        {
+          "title": "Sri Jagadisa Pandita -- Disappearance",
+          "date": "2027-12-30",
+          "category": "Disappearance",
+          "fasting": false,
+          "break_fast_start": "",
+          "break_fast_end": "",
+          "priority": 4,
+          "reminder": true,
+          "description": ""
+        }
+      ]
+    }
+  }
+}
