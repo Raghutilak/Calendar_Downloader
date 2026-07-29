@@ -1,7 +1,18 @@
 name: Calendar Downloader
+permissions:
+  contents: write
+
 
 on:
   workflow_dispatch:
+
+  schedule:
+    # - cron: '0 0 * * *'          daily
+
+    # - cron: '0 0 * * 0'          weekly
+    
+    - cron: '0 0 1 * *'          monthly
+
 
 jobs:
   build:
@@ -10,6 +21,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -36,8 +49,22 @@ jobs:
       - name: Run downloader
         run: python src/build_all.py
 
-      - name: Upload Calendar_Data
-        uses: actions/upload-artifact@v4
-        with:
-          name: Calendar_Data
-          path: Calendar_Data
+# Commit update Calendar_Data if anything changed.
+
+      - name: Commit updated Calendar_Data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add Calendar_Data
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update Calendar_Data"
+          fi
+
+      - name: Push changes
+        if: success()
+        run: git push
+    
