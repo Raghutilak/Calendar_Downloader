@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-29T05:24:05Z",
+  "generated": "2026-07-29T05:47:33Z",
   "latestYear": 2027,
   "years": [
     2026,
@@ -554,8 +554,8 @@
     {
       "name": "Hartford",
       "country": "United States of America",
-      "lat": 41.766162,
-      "lon": -72.673273,
+      "lat": 41.764582,
+      "lon": -72.690855,
       "timezone": "America/New_York"
     },
     {
@@ -918,8 +918,8 @@
     {
       "name": "Nairobi",
       "country": "Kenya",
-      "lat": -1.302398,
-      "lon": 36.828851,
+      "lat": -1.289001,
+      "lon": 36.817281,
       "timezone": "Africa/Nairobi"
     },
     {
@@ -953,8 +953,8 @@
     {
       "name": "Novosibirsk",
       "country": "Russia",
-      "lat": 55.028831,
-      "lon": 82.922689,
+      "lat": 54.967815,
+      "lon": 82.951599,
       "timezone": "Asia/Novosibirsk"
     },
     {
@@ -1254,8 +1254,8 @@
     {
       "name": "Smolensk",
       "country": "Russia",
-      "lat": 54.77897,
-      "lon": 32.047181,
+      "lat": 54.781406,
+      "lon": 32.046126,
       "timezone": "Europe/Moscow"
     },
     {
