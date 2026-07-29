@@ -50,7 +50,7 @@ jobs:
       - name: Run downloader
         run: python src/build_all.py
 
-# Commit update Calendar_Data if anything changed.
+      # Commit update Calendar_Data if anything changed.
 
       - name: Commit updated Calendar_Data
         run: |
@@ -69,3 +69,25 @@ jobs:
         if: success()
         run: git push
     
+
+      - name: Send email
+        if: always()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: Calendar Downloader - ${{ job.status }}
+          to: raghutilak.das@gmail.com
+          from: Calendar Downloader
+          body: |
+            Workflow: Calendar Downloader
+
+            Status: ${{ job.status }}
+
+            Repository: ${{ github.repository }}
+
+            Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
