@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-29T02:48:21Z",
+  "generated": "2026-07-29T05:06:44Z",
   "latestYear": 2027,
   "years": [
     2026,
@@ -519,8 +519,8 @@
     {
       "name": "Gdansk",
       "country": "Poland",
-      "lat": 54.348291,
-      "lon": 18.654023,
+      "lat": 54.428803,
+      "lon": 18.798327,
       "timezone": "Europe/Warsaw"
     },
     {
@@ -554,8 +554,8 @@
     {
       "name": "Hartford",
       "country": "United States of America",
-      "lat": 41.764582,
-      "lon": -72.690855,
+      "lat": 41.766162,
+      "lon": -72.673273,
       "timezone": "America/New_York"
     },
     {
@@ -918,8 +918,8 @@
     {
       "name": "Nairobi",
       "country": "Kenya",
-      "lat": -1.289001,
-      "lon": 36.817281,
+      "lat": -1.302398,
+      "lon": 36.828851,
       "timezone": "Africa/Nairobi"
     },
     {
