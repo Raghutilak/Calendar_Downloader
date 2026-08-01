@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-29T05:47:33Z",
+  "generated": "2026-08-01T02:27:14Z",
   "latestYear": 2027,
   "years": [
     2026,
@@ -274,8 +274,8 @@
     {
       "name": "Budapest",
       "country": "Hungary",
-      "lat": 47.497879,
-      "lon": 19.040238,
+      "lat": 47.48139,
+      "lon": 19.145772,
       "timezone": "Europe/Budapest"
     },
     {
@@ -519,8 +519,8 @@
     {
       "name": "Gdansk",
       "country": "Poland",
-      "lat": 54.428803,
-      "lon": 18.798327,
+      "lat": 54.348291,
+      "lon": 18.654023,
       "timezone": "Europe/Warsaw"
     },
     {
@@ -953,8 +953,8 @@
     {
       "name": "Novosibirsk",
       "country": "Russia",
-      "lat": 54.967815,
-      "lon": 82.951599,
+      "lat": 55.028831,
+      "lon": 82.922689,
       "timezone": "Asia/Novosibirsk"
     },
     {
@@ -1002,8 +1002,8 @@
     {
       "name": "Paris",
       "country": "France",
-      "lat": 48.853495,
-      "lon": 2.348391,
+      "lat": 48.85889,
+      "lon": 2.320041,
       "timezone": "Europe/Paris"
     },
     {
@@ -1254,8 +1254,8 @@
     {
       "name": "Smolensk",
       "country": "Russia",
-      "lat": 54.781406,
-      "lon": 32.046126,
+      "lat": 54.77897,
+      "lon": 32.047181,
       "timezone": "Europe/Moscow"
     },
     {
